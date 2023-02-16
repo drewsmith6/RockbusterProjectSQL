@@ -1,4 +1,4 @@
-Subquery that finds Rockbusters top movie title revenues along with their rating and genre
+Query in SQL that finds Rockbusters top movie title revenues along with their rating and genre
 Contains multiple joins from different tables
 
 
