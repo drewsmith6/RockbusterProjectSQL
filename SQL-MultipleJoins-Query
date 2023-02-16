@@ -1,6 +1,7 @@
 Subquery that finds Rockbusters top movie title revenues along with their rating and genre
 Contains multiple joins from different tables
 
+
 SELECT D.title AS film,			
        D.rating,			
 	   F.name AS genre,		
