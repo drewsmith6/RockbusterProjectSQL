@@ -1,0 +1,15 @@
+Query that finds Rockbusters top movie title revenues along with their rating and genre
+Contains multiple joins from different tables
+
+SELECT D.title AS film,			
+       D.rating,			
+	   F.name AS genre,		
+	   SUM(A.amount) AS total_revenue		
+FROM payment A			
+	INNER JOIN rental B ON A.rental_id = B.rental_id		
+	INNER JOIN inventory C ON B.inventory_id = C.inventory_id		
+	INNER JOIN film D ON C.film_id = D.film_id		
+	INNER JOIN film_category E ON C.film_id = E.film_id		
+    INNER JOIN category F ON E.category_id = F.category_id			
+GROUP BY title, genre, rating			
+ORDER BY total_revenue DESC						
