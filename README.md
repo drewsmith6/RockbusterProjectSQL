@@ -5,7 +5,7 @@ Rockbuster Stealth LLC is a movie rental company that is facing stiff competitio
 
 Rockbusters Management Board has asked various business questions and wants answers that provide insights about their customers and movie selection to help with the launch strategy of the new online rental service. 
 ## Data
-A relational database provided by Career Foundry contatining data on film rentals, customers, actors, payments and more
+A relational database provided by Career Foundry containing data on film rentals, customers, actors, payments and more
 
 [Data Set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 ## Visualizations
