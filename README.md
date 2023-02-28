@@ -10,14 +10,6 @@ A relational database provided by Career Foundry containing data on film rentals
 [Data Set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 ## Visualizations
 
-[Tableau Link 1](https://public.tableau.com/app/profile/andrew.smith6925/viz/Task3_10MovieRevenuesDashboard/Dashboard1)
+[Tableau Dashboard Link](https://public.tableau.com/app/profile/andrew.smith6925/viz/RockbusterMovieRevenuesDashboardVisualizations/MovieRevenueDashboard)
 
-[Tableau Link 2](https://public.tableau.com/app/profile/andrew.smith6925/viz/TopCustomerCountperCountryTask3_10/topcountrycustomercount)
-
-[Tableau Link 3](https://public.tableau.com/app/profile/andrew.smith6925/viz/TopCountryRevenuesTask3_10/topcountryrevenues)
-
-[Tableau Link 4](https://public.tableau.com/app/profile/andrew.smith6925/viz/TopCustomersTask3_10/topcustomers)
-
-[Tableau Link 5](https://public.tableau.com/app/profile/andrew.smith6925/viz/TopCitiesTask3_10/topcities)
-
-
+[Tableau Map Link](https://public.tableau.com/app/profile/andrew.smith6925/viz/RockbusterTopCountriesMap/TopCountries)
